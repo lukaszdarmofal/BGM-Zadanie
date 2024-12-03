@@ -1,0 +1,14 @@
+/home/iii_tie/Dokumenty/darmofal/BGS/bin/Debug/net8.0/BGS
+/home/iii_tie/Dokumenty/darmofal/BGS/bin/Debug/net8.0/BGS.deps.json
+/home/iii_tie/Dokumenty/darmofal/BGS/bin/Debug/net8.0/BGS.runtimeconfig.json
+/home/iii_tie/Dokumenty/darmofal/BGS/bin/Debug/net8.0/BGS.dll
+/home/iii_tie/Dokumenty/darmofal/BGS/bin/Debug/net8.0/BGS.pdb
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.GeneratedMSBuildEditorConfig.editorconfig
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.AssemblyInfoInputs.cache
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.AssemblyInfo.cs
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.csproj.CoreCompileInputs.cache
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.dll
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/refint/BGS.dll
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.pdb
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/BGS.genruntimeconfig.cache
+/home/iii_tie/Dokumenty/darmofal/BGS/obj/Debug/net8.0/ref/BGS.dll
